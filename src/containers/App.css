@@ -1,0 +1,9 @@
+.App {
+  text-align: center; 
+  font-family: 'Cairo', sans-serif
+}
+.btn-width{
+  display: flex;
+  align-self: center;
+  
+}
